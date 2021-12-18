@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**alexnat009/alexnat009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<h1 align="center" dir="auto"> Hello fellas<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a></h1>
+- 🔭 I’m currently Student
+- 🌱 I’m currently learning:
+     ➗ Mathematics
+     🐍 Python
+     📊 Data science/analysis
+     💡 Java
+- 💬 Ask me about War between Ducks and Cows 
+- 📫 How to reach me: <a href="https://www.facebook.com/chijibiji">Facebook</a>, <a href="https://www.linkedin.com/in/aleksandre-gordeladze-a4ab80225">LinkedIn Profile</a>
